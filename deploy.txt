@@ -1,0 +1,1 @@
+firebase deploy --only hosting:calendar-events-2022
